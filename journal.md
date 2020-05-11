@@ -1,9 +1,9 @@
 # This is my supercool paper
-written by me
+written by me and John
 
 # Introduction
 
-This is a very important problem that I am working upon.
+This is a very important problem that I and John have been working upon.
 
 #References
 Smith, J (2020)
