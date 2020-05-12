@@ -1,6 +1,8 @@
 # This is my supercool paper
 written by me
-Some other university
+
+NED University of Engineering and Technology
+
 
 # Introduction
 
