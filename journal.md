@@ -5,6 +5,10 @@ written by me
 
 This is a very important problem that I am working upon.
 
+# Figures
+
+These charts illustrates the results clearly.
+
 # Results
 
 I have found some interesting results from my experiment.
